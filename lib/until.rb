@@ -4,6 +4,3 @@ until levitation_force == 10
 puts "The current levitation force level is less than 10."
 counter +=1
   end
-
-
-end
