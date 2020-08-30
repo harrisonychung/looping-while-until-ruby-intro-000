@@ -4,6 +4,5 @@ until levitation_force == 10
 puts "The current levitation force level is #{levitation_force}."
   end
 
-    
-end
 
+end
